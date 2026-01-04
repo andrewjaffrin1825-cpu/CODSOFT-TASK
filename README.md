@@ -1,23 +1,24 @@
-SIMPLE CALCULATOR
-A lightweight command-line Python calculator that supports addition, subtraction, multiplication, division, modulo, and exponentiation.
+# 🧮 Simple Calculator
 
-Features
-Addition, subtraction, multiplication, division, modulo, and power
-Clear error message for division/modulo by zero
-Calculator class for reuse
-Interactive menu-driven CLI
-Usage
-Run the program:
-   python calculator.py
-Follow the on-screen menu to choose an operation and enter two numbers.
+A lightweight, user-friendly command-line Python calculator that supports basic arithmetic operations with error handling and interactive menu-driven interface.
 
-Example
-Choose 1 (Addition), enter 5 and 3:
-✅ Result: 5.0 + 3.0 = 8.0
-Files
-calculator.py — main program and Calculator class
-README.md — project description
-.gitignore — ignores common Python files
-requirements.txt — (no external dependencies)
-Requirements
-Python 3.8+
+## ✨ Features
+
+- ✅ **Basic Operations**: Addition, subtraction, multiplication, division, modulo, and exponentiation
+- ✅ **Error Handling**: Clear error messages for division/modulo by zero
+- ✅ **Reusable Design**: Calculator class for easy integration into other projects
+- ✅ **Interactive CLI**: Menu-driven interface for seamless user experience
+- ✅ **Clean Code**: Well-documented and easy-to-understand source code
+- ✅ **No Dependencies**: Pure Python with no external library requirements
+
+## 🚀 Quick Start
+
+### Prerequisites
+- Python 3.8 or higher
+
+### Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/andrewjaffrin1825-cpu/CODSOFT-TASK.git
+cd CODSOFT-TASK
